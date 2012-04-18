@@ -1,0 +1,15 @@
+C:\Data\C Sharp\Git\UFJ\OFX2Lets converter\OFX2Lets converter\bin\Debug\OFX2Lets converter.exe.config
+C:\Data\C Sharp\Git\UFJ\OFX2Lets converter\OFX2Lets converter\obj\x86\Debug\OFX2Lets converter.exe
+C:\Data\C Sharp\Git\UFJ\OFX2Lets converter\OFX2Lets converter\obj\x86\Debug\OFX2Lets converter.pdb
+C:\Data\C Sharp\Git\UFJ\OFX2Lets converter\OFX2Lets converter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Data\C Sharp\Git\UFJ\OFX2Lets converter\OFX2Lets converter\obj\x86\Debug\OFX2LetsForm.OFX2Lets.resources
+C:\Data\C Sharp\Git\UFJ\OFX2Lets converter\OFX2Lets converter\obj\x86\Debug\OFX2Lets.Properties.Resources.resources
+C:\Data\C Sharp\Git\UFJ\OFX2Lets converter\OFX2Lets converter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Data\C Sharp\Git\UFJ\OFX2Lets converter\OFX2Lets converter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Data\C Sharp\Git\UFJ\OFX2Lets converter\OFX2Lets converter\bin\Debug\OFX2Lets converter.exe.manifest
+C:\Data\C Sharp\Git\UFJ\OFX2Lets converter\OFX2Lets converter\bin\Debug\OFX2Lets converter.application
+C:\Data\C Sharp\Git\UFJ\OFX2Lets converter\OFX2Lets converter\bin\Debug\OFX2Lets converter.exe
+C:\Data\C Sharp\Git\UFJ\OFX2Lets converter\OFX2Lets converter\bin\Debug\OFX2Lets converter.pdb
+C:\Data\C Sharp\Git\UFJ\OFX2Lets converter\OFX2Lets converter\obj\x86\Debug\OFX2Lets converter.TrustInfo.xml
+C:\Data\C Sharp\Git\UFJ\OFX2Lets converter\OFX2Lets converter\obj\x86\Debug\OFX2Lets converter.exe.manifest
+C:\Data\C Sharp\Git\UFJ\OFX2Lets converter\OFX2Lets converter\obj\x86\Debug\OFX2Lets converter.application
